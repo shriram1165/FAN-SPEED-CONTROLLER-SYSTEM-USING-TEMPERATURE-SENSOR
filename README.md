@@ -182,9 +182,9 @@ void poweroffRelay()
     lcd.clear();
   }
 ~~~
+# Output
 
 # Result
-
----
+~~~
 FAN SPEED CONTROLLER SYSTEM USING TEMPERATURE SENSOR USING TINKERCAD EXECUTED SUCCESSfully.
---
+~~~
