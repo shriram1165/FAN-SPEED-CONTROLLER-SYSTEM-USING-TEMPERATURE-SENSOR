@@ -183,7 +183,7 @@ void poweroffRelay()
   }
 ~~~
 # Output
-
+https://go.screenpal.com/watch/cTQ1flnoYgv
 # Result
 ~~~
 FAN SPEED CONTROLLER SYSTEM USING TEMPERATURE SENSOR USING TINKERCAD EXECUTED SUCCESSfully.
